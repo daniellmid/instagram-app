@@ -1,0 +1,6 @@
+{
+    "prettier.endOfLine": "lf",
+    "prettier.tabWidth": 2,
+    "prettier.useTabs": false,
+    "prettier.vueIndentScriptAndStyle": false
+}
